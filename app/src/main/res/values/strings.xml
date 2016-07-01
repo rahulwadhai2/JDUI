@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Jg</string>
+    <string name="activity_dash_board">Dashboard</string>
+    <string name="ref_title">Ref#</string>
+    <string name="customer_name_title">Customer Name</string>
+    <string name="zip_code_title">Zip Code</string>
+    <string name="date_sold_title">Date Sold</string>
+    <string name="customer_id_job_title">CustomerID&amp;Job#</string>
+    <string name="job_packet_title">JobPacketPDF\'s</string>
+    <string name="category_title">Category</string>
+    <string name="status_title">Status</string>
+    <string name="notes_title">Notes</string>
+    <string name="welcome_title">Welcome</string>
+    <string name="home_button">Home</string>
+    <string name="change_password_button">Change Password</string>
+    <string name="log_out_button">Logout</string>
+    <string name="open_jobs_button">Open Jobs</string>
+    <string name="assigned_jobs_button">Assigned Jobs</string>
+    <string name="sign_off_button">Sign Off Document</string>
+</resources>
